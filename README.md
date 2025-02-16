@@ -11,3 +11,5 @@ fashion-mnist_train.csv = https://github.com/fpleoni/fashion_mnist/raw/refs/head
 ### Quora-Question-Pairs
 
 train.csv = https://github.com/bhavul/Quora-Question-Pairs/raw/refs/heads/master/train.csv
+
+- **planets data** = https://github.com/mwaskom/seaborn-data/blob/master/planets.csv
